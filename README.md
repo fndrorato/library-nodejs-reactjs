@@ -42,6 +42,7 @@ See the [example](https://book-app-fndrorato.vercel.app/)
     npm install
 3. Create and Configure .env
     ```bash
+    PORT=3001
     MONGO_URL='mongodb+srv://dummyuser:<yourPassword>@cluster0.ibrbuu9.mongodb.net/?retryWrites=true&w=majority' 
 4. Now, install client (frontend)
     ```bash
